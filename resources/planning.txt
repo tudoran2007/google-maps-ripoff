@@ -1,0 +1,4 @@
+tudor:
+i think that we should (at least for now) not use the road objects and just have the cities; we can add the roads and time calculation later
+Each map stores the location of all city nodes. The user then uses a function, telling it to calculate the path from city1 to city2. this
+function goes to city1, as it is stored by the map, then finds a path between city1 and city2 using recursion. 
